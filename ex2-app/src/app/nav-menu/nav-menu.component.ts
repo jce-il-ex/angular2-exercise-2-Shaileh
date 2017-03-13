@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class NavMenuComponent implements OnInit {
 
 
-  buttons=[{id:1 label:"Home"},{id:2,label:"News"},{id:3,label:"Contact"},{id:4,label:"About"}];
+  buttons=[{id:1 ,label:'Home'},{id:2,label:"News"},{id:3,label:"Contact"},{id:4,label:"About"}];
 
   constructor() { }
 
